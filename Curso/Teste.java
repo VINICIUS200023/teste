@@ -10,8 +10,6 @@ public class Teste {
         System.out.println("INFORME SEU NOME");
         String nome = le.nextLine();
 
-        System.out.println("SEU NOME "+nome);
-
     }
 
 }
